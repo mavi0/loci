@@ -1,2 +1,3 @@
-# loci
-Legal Office Case Integration
+# LOCI - Legal aid Office Case Integration software
+
+
